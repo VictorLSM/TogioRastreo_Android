@@ -1,0 +1,4 @@
+#Fri Jun 05 01:18:55 COT 2020
+base.0=D\:\\UCSG\\PPP\\TOGIO\\traccar-manager-android-master\\app\\build\\intermediates\\dex\\regularDebug\\mergeDexRegularDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
