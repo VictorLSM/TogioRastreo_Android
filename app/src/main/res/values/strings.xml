@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Togio Rastreo</string>
+
+    <string name="label_server"><b>Servidor:</b></string>
+    <string name="label_info">Togio Rastreo  te permite tomar el control de tus vehiculos, bienes o fuerza laboral. Rastreo de vehiculos, alertas y reportes.</string>
+    <string name="button_start">Iniciar</string>
+    <string name="error_connection">Falló la conexión con el servidor.</string>
+    <string name="file_browser">File Browser</string>
+    <string name="notification_channel">Default</string>
+    <string name="https_rastreo_togio_solutions_com">https://rastreo.togio-solutions.com/</string>
+</resources>

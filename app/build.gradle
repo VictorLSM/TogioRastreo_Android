@@ -1,0 +1,46 @@
+apply plugin: 'com.android.application'
+apply plugin: 'com.google.gms.google-services'
+
+android {
+    compileSdkVersion 29
+
+    defaultConfig {
+        applicationId 'org.traccar.manager'
+        minSdkVersion 19
+        targetSdkVersion 29
+        versionCode 20
+        versionName '2.9'
+    }
+
+    flavorDimensions 'default'
+    productFlavors {
+        regular {
+            isDefault.set(true)
+        }
+        google
+    }
+}
+
+dependencies {
+    implementation 'com.google.android.material:material:1.0.0'
+    implementation 'com.google.firebase:firebase-messaging:17.3.4'
+    googleImplementation 'com.google.firebase:firebase-core:17.2.0'
+    googleImplementation 'com.google.firebase:firebase-messaging:20.0.0'
+    googleImplementation 'com.crashlytics.sdk.android:crashlytics:2.10.1'
+}
+
+if (getGradle().getStartParameter().getTaskRequests().toString().contains('Google')) {
+    apply plugin: 'com.google.gms.google-services'
+    apply plugin: 'io.fabric'
+
+    task copyJson(type: Copy) {
+        from '../../traccar-shared/google-services'
+        into '.'
+        include 'traccar-manager-android.json'
+        rename('traccar-manager-android.json', 'google-services.json')
+    }
+
+    afterEvaluate {
+        preBuild.dependsOn copyJson
+    }
+}
