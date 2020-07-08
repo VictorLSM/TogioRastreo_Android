@@ -1,42 +1,34 @@
 {
   "project_info": {
-    "project_number": "238138618580",
-    "firebase_url": "https://traccar-manager-android-60506.firebaseio.com",
-    "project_id": "traccar-manager-android-60506",
-    "storage_bucket": "traccar-manager-android-60506.appspot.com"
+    "project_number": "833612362091",
+    "firebase_url": "https://togio-rastreosateltal.firebaseio.com",
+    "project_id": "togio-rastreosateltal",
+    "storage_bucket": "togio-rastreosateltal.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:238138618580:android:20fd01f3920918aac34141",
+        "mobilesdk_app_id": "1:833612362091:android:98eea5817e76fe70e25c2e",
         "android_client_info": {
           "package_name": "org.traccar.manager"
         }
       },
       "oauth_client": [
         {
-          "client_id": "238138618580-7baugk0la1ujsea8ndtq1luosvqhpl06.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "org.traccar.manager",
-            "certificate_hash": "dee39d9197ffe3b1f5b5ed8851d3431e5e192dbd"
-          }
-        },
-        {
-          "client_id": "238138618580-v33ju5sl3m5jtk45iefh99fe3o2a4esi.apps.googleusercontent.com",
+          "client_id": "833612362091-06sddek44clvqfjie3i8kgr3562764gs.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBBtjv4n989l2H5Sg6vxTBGnwFxXnNf40k"
+          "current_key": "AIzaSyDXncIWyAhmNYU2K48SLtpGSjimdECzXIw"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "238138618580-v33ju5sl3m5jtk45iefh99fe3o2a4esi.apps.googleusercontent.com",
+              "client_id": "833612362091-06sddek44clvqfjie3i8kgr3562764gs.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

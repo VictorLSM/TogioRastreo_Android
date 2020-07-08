@@ -22,10 +22,10 @@ android {
 }
 
 dependencies {
-    implementation 'com.google.android.material:material:1.0.0'
-    implementation 'com.google.firebase:firebase-messaging:17.3.4'
-    googleImplementation 'com.google.firebase:firebase-core:17.2.0'
-    googleImplementation 'com.google.firebase:firebase-messaging:20.0.0'
+    implementation 'com.google.android.material:material:1.1.0'
+    implementation 'com.google.firebase:firebase-messaging:20.2.1'
+    googleImplementation 'com.google.firebase:firebase-core:17.4.3'
+    googleImplementation 'com.google.firebase:firebase-messaging:20.2.1'
     googleImplementation 'com.crashlytics.sdk.android:crashlytics:2.10.1'
 }
 

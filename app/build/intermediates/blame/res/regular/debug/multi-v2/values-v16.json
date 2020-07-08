@@ -4,7 +4,7 @@
             "outputFile": "D:\\UCSG\\PPP\\TOGIO\\traccar-manager-android-master\\app\\build\\intermediates\\incremental\\mergeRegularDebugResources\\merged.dir\\values-v16\\values-v16.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Ultra\\.gradle\\caches\\transforms-2\\files-2.1\\9a20a477f978ee2803f5020fdf14e936\\core-1.0.0\\res\\values-v16\\values-v16.xml",
+                    "source": "C:\\Users\\Ultra\\.gradle\\caches\\transforms-2\\files-2.1\\86ab3fa3023be743f18b9a5994f7a762\\core-1.1.0\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Ultra\\.gradle\\caches\\transforms-2\\files-2.1\\e1318e6f03464dcdc628af18623139d6\\appcompat-1.0.0\\res\\values-v16\\values-v16.xml",
+                    "source": "C:\\Users\\Ultra\\.gradle\\caches\\transforms-2\\files-2.1\\b18223cc2f63300f64fe33c385245ed2\\appcompat-1.1.0\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

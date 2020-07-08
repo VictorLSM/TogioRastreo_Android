@@ -4,24 +4,7 @@
             "outputFile": "D:\\UCSG\\PPP\\TOGIO\\traccar-manager-android-master\\app\\build\\intermediates\\incremental\\mergeRegularDebugResources\\merged.dir\\values-v24\\values-v24.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Ultra\\.gradle\\caches\\transforms-2\\files-2.1\\54941f3e5892b73dbda52edc91f535d8\\media-1.0.0\\res\\values-v24\\values-v24.xml",
-                    "from": {
-                        "startLines": "2,3,4,5",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "55,121,182,248",
-                        "endColumns": "65,60,65,66",
-                        "endOffsets": "116,177,243,310"
-                    },
-                    "to": {
-                        "startLines": "4,5,6,7",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "347,413,474,540",
-                        "endColumns": "65,60,65,66",
-                        "endOffsets": "408,469,535,602"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Ultra\\.gradle\\caches\\transforms-2\\files-2.1\\e1318e6f03464dcdc628af18623139d6\\appcompat-1.0.0\\res\\values-v24\\values-v24.xml",
+                    "source": "C:\\Users\\Ultra\\.gradle\\caches\\transforms-2\\files-2.1\\b18223cc2f63300f64fe33c385245ed2\\appcompat-1.1.0\\res\\values-v24\\values-v24.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",

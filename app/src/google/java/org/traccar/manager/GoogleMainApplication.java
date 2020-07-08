@@ -65,6 +65,7 @@ public class GoogleMainApplication extends Application {
         Intent intent = new Intent(MainFragment.EVENT_TOKEN);
         intent.putExtra(MainFragment.KEY_TOKEN, token);
         LocalBroadcastManager.getInstance(this).sendBroadcast(intent);
+
     }
 
 }
